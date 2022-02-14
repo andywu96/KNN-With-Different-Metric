@@ -15,5 +15,11 @@
 
 This is one of the HW assignment at USC, using KNN with different metrics to find the test and train error.
 
-
-** Pre-Processing and Exploratory data analysis: **
+1. Pre-Processing and Exploratory data analysis
+2. k-nearest neighbors with Euclidean metric
+3. Find a Learning Curve
+4. KNN with different distance metrics
+   - Manhattan Distance
+   - Chebyshev Distance   
+   - Mahalanobis Distance
+5. Weighted distances
