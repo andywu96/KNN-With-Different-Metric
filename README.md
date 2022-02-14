@@ -13,7 +13,7 @@
 
 ## KNN-With-Different-Metric
 
-This is one of the HW assignment at USC, using KNN with different metrics to find the test and train error.
+This is one of the HW assignment at USC, using KNN with different metrics to find the best test and train error (MSE).
 
 1. Pre-Processing and Exploratory data analysis
 2. k-nearest neighbors with Euclidean metric
