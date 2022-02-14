@@ -13,4 +13,7 @@
 
 ## KNN-With-Different-Metric
 
-This is one of the HW assignment at USC, using KNN with different metrics to find the 
+This is one of the HW assignment at USC, using KNN with different metrics to find the test and train error.
+
+
+** Pre-Processing and Exploratory data analysis:
