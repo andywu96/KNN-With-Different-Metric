@@ -25,8 +25,7 @@ This is one of the HW assignment at USC, using KNN with different metrics to fin
 5. Weighted distances
 
 
-# INF 552 - Machine Learning for Data Science - USC
-Homework solutions for INF552 (Data Mining) at University of Southern California
+# Machine Learning for Data Science at University of Southern California
 ![data_science](graphic/ds.jpg)
 
 ## HW1: Decision Tree
