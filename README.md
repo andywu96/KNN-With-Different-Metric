@@ -27,3 +27,6 @@ This is one of the HW assignment at USC, using KNN with different metrics to fin
 
 ## Machine Learning for Data Science
 ![data_science](ds.jpg)
+
+## KNN
+![data_science](KNN.jpg)
